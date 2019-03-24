@@ -1,0 +1,1 @@
+nohup ./frpc > log1 &
